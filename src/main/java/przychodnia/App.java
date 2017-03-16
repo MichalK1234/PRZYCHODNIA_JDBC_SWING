@@ -8,6 +8,9 @@ import database.Database;
 import panels.PanelLogin;
 
 public class App {
+	
+	//PROGRAM WYKONANY W RAMACH SZKOLENIA KM-PROGRAMS
+	//http://km-programs.pl/
 
 	public static void createWindow() throws SQLException {
 
